@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "d:/MeusProjetos/Trees in C/Hash-Table-in-C",
+      "cwd": "d:/MeusProjetos/Hash-Table-in-C",
       "environment": [],
-      "program": "d:/MeusProjetos/Trees in C/Hash-Table-in-C/build/Debug/outDebug",
+      "program": "d:/MeusProjetos/Hash-Table-in-C/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
